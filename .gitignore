@@ -1,0 +1,18 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+
+# Build results
+bin/
+obj/
+
+# SQLite
+*.db
+
+# Logs
+*.log
+
+# Migrations
+Migrations/
